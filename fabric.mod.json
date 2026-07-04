@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "tbtbred",
+  "version": "1.0.0",
+  "name": "2x2 bred",
+  "icon": "icon.png",
+  "description": "simple datapack that lets you craft bread in the 2x2 grid",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.14.0"
+  }
+}
